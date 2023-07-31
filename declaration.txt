@@ -1,0 +1,14 @@
+
+Declaration of Use for Practice Purposes Only
+
+I, Souvik Singha, hereby declare that I am using the provided code snippet exclusively for practice and learning purposes. The code, which I obtained from a publicly available source, is intended solely for educational use to develop my skills in web automation using the Selenium library.
+
+I affirm that I will not use this code or any variations of it for any harmful, malicious, or unethical activities. I understand that using automated scripts to engage in activities that violate the terms of service or policies of websites, including but not limited to Instagram, is strictly forbidden.
+
+My intention in using this code is solely for personal growth and understanding of web automation techniques. I will not use it for any commercial, deceptive, or harmful purposes.
+
+I am fully aware of the consequences of misusing automated scripts and the potential harm it may cause to websites and their users. Therefore, I pledge to exercise responsible and ethical behavior while using this code.
+
+In the event that I encounter any unintended consequences or issues while practicing with this code, I will immediately cease its usage and seek assistance to resolve any problems.
+
+
