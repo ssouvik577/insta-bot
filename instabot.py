@@ -20,9 +20,9 @@ time.sleep(3)
 
 # Enters the login credentials (username and password) into the respective input fields
 username = driver.find_element(By.XPATH, '//*[@id="loginForm"]/div/div[1]/div/label/input')
-username.send_keys("internetpoint621@gmail.com")
+username.send_keys("Your User Id")
 password = driver.find_element(By.XPATH, '//*[@id="loginForm"]/div/div[2]/div/label/input')
-password.send_keys("Tupai@123")
+password.send_keys("Your Password")
 
 # Logs in by sending the ENTER key press on the password input field
 password.send_keys(Keys.ENTER)
